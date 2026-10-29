@@ -2,6 +2,8 @@
 
 纯 HTML/CSS/JavaScript 实现的单机三国杀，无需安装或构建。
 
+**在线试玩：https://liyucheng1997.github.io/401_game-sanguosha/**
+
 ## 运行
 
 直接双击 `index.html` 用浏览器打开即可（推荐 Chrome / Edge）。
