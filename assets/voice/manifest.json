@@ -1,0 +1,2026 @@
+{
+ "skill_jianxiong_1": {
+  "key": "53e681ad08fc",
+  "text": "天下之物，皆可为我所用。",
+  "voice": "浑厚男声",
+  "dur": 3.07,
+  "asr": "天下之物,这可为我所用。",
+  "score": 0.9
+ },
+ "skill_jianxiong_2": {
+  "key": "595ae5e0908b",
+  "text": "此物，归我了！",
+  "voice": "浑厚男声",
+  "dur": 1.95,
+  "asr": "此物 归我了",
+  "score": 1.0
+ },
+ "skill_hujia_1": {
+  "key": "e50481f26e1f",
+  "text": "魏国将士，速来护驾！",
+  "voice": "浑厚男声",
+  "dur": 2.51,
+  "asr": "卫国将士 苏莱护驾",
+  "score": 1.0
+ },
+ "skill_hujia_2": {
+  "key": "2ec379d9d84f",
+  "text": "护驾！护驾！",
+  "voice": "浑厚男声",
+  "dur": 1.76,
+  "asr": "互加互加",
+  "score": 1.0
+ },
+ "skill_fankui_1": {
+  "key": "fe7fc30e6201",
+  "text": "伤我者，必付出代价。",
+  "voice": "人工老龙凤",
+  "dur": 1.52,
+  "asr": "伤我者必付出代价。",
+  "score": 1.0
+ },
+ "skill_fankui_2": {
+  "key": "00d2849379a1",
+  "text": "这笔账，我记下了。",
+  "voice": "人工老龙凤",
+  "dur": 1.43,
+  "asr": "这笔账我记下了。",
+  "score": 1.0
+ },
+ "skill_guicai_1": {
+  "key": "fc8fb1f674b5",
+  "text": "天意？由我来改！",
+  "voice": "人工老龙凤",
+  "dur": 1.17,
+  "asr": "天意由我来改。",
+  "score": 1.0
+ },
+ "skill_guicai_2": {
+  "key": "2086bfcfb8fb",
+  "text": "这一局，早在我算计之中。",
+  "voice": "人工老龙凤",
+  "dur": 1.99,
+  "asr": "这一局早在我算计之中。",
+  "score": 1.0
+ },
+ "skill_ganglie_1": {
+  "key": "80b39440dd3e",
+  "text": "夏侯惇在此，谁敢伤我！",
+  "voice": "浑厚男声",
+  "dur": 2.34,
+  "asr": "下后盾在此,谁敢伤我?",
+  "score": 1.0
+ },
+ "skill_ganglie_2": {
+  "key": "b772871aff47",
+  "text": "伤我一分，还你十倍！",
+  "voice": "浑厚男声",
+  "dur": 2.3,
+  "asr": "伤我一分,害你失悲。",
+  "score": 1.0
+ },
+ "skill_tuxi_1": {
+  "key": "a10db2212953",
+  "text": "八百虎贲，随我突袭！",
+  "voice": "沉稳男声",
+  "dur": 2.22,
+  "asr": "八百虎奔,随我突袭。",
+  "score": 1.0
+ },
+ "skill_tuxi_2": {
+  "key": "f543e1db89ed",
+  "text": "趁其不备，取之！",
+  "voice": "沉稳男声",
+  "dur": 1.51,
+  "asr": "趁起不备,取之。",
+  "score": 1.0
+ },
+ "skill_luoyi_1": {
+  "key": "8de382b6363e",
+  "text": "脱了甲，才打得痛快！",
+  "voice": "浑厚男声",
+  "dur": 2.77,
+  "asr": "错了加,才打得痛快。",
+  "score": 0.88
+ },
+ "skill_luoyi_2": {
+  "key": "2e52d66375fb",
+  "text": "谁来与我大战三百回合！",
+  "voice": "浑厚男声",
+  "dur": 2.28,
+  "asr": "谁来与我搭站三百回合",
+  "score": 1.0
+ },
+ "skill_tiandu_1": {
+  "key": "7ddcd7f99b9d",
+  "text": "天命如此，奈何？",
+  "voice": "人工老龙凤",
+  "dur": 1.29,
+  "asr": "天命如此奈何。",
+  "score": 1.0
+ },
+ "skill_tiandu_2": {
+  "key": "fe4e1bb8e30b",
+  "text": "罢了，罢了。",
+  "voice": "人工老龙凤",
+  "dur": 0.64,
+  "asr": "罢了罢了",
+  "score": 1.0
+ },
+ "skill_yiji_1": {
+  "key": "ade76e0abce8",
+  "text": "我的谋划，就交给你们了。",
+  "voice": "人工老龙凤",
+  "dur": 1.79,
+  "asr": "我的谋话就交给你们了。",
+  "score": 1.0
+ },
+ "skill_yiji_2": {
+  "key": "f6a3cfbfc7ef",
+  "text": "此计，可保主公无忧。",
+  "voice": "人工老龙凤",
+  "dur": 1.6,
+  "asr": "此即可保主功无忧。",
+  "score": 1.0
+ },
+ "skill_qingguo_1": {
+  "key": "1bbeb53486b7",
+  "text": "翩若惊鸿，婉若游龙。",
+  "voice": "中文女声",
+  "dur": 3.15,
+  "asr": "偏弱惊鸿 晚若游龙",
+  "score": 1.0
+ },
+ "skill_qingguo_2": {
+  "key": "d6a5e62419f0",
+  "text": "休想伤我分毫。",
+  "voice": "中文女声",
+  "dur": 2.09,
+  "asr": "休想伤我分毫",
+  "score": 1.0
+ },
+ "skill_luoshen_1": {
+  "key": "58dd037e9930",
+  "text": "凌波微步，罗袜生尘。",
+  "voice": "中文女声",
+  "dur": 3.1,
+  "asr": "铃波微部罗瓦生辰",
+  "score": 1.0
+ },
+ "skill_luoshen_2": {
+  "key": "c75aec54a6b6",
+  "text": "仿佛兮若轻云之蔽月。",
+  "voice": "中文女声",
+  "dur": 3.23,
+  "asr": "仿佛稀弱,轻云滋,闭月。",
+  "score": 0.89
+ },
+ "skill_shensu_1": {
+  "key": "a047218a48bd",
+  "text": "兵贵神速！",
+  "voice": "沉稳男声",
+  "dur": 0.99,
+  "asr": "冰鬼神速",
+  "score": 1.0
+ },
+ "skill_shensu_2": {
+  "key": "8bf094adf904",
+  "text": "疾如风，快如电！",
+  "voice": "沉稳男声",
+  "dur": 1.49,
+  "asr": "即如风,快入店。",
+  "score": 1.0
+ },
+ "skill_jushou_1": {
+  "key": "50d37b7505bd",
+  "text": "坚守城池，以待援军！",
+  "voice": "人工老龙凤",
+  "dur": 1.63,
+  "asr": "坚守城池以待援军。",
+  "score": 1.0
+ },
+ "skill_jushou_2": {
+  "key": "eba38b555c9f",
+  "text": "城在人在！",
+  "voice": "人工老龙凤",
+  "dur": 0.7,
+  "asr": "承载人在",
+  "score": 1.0
+ },
+ "skill_qiangxi_1": {
+  "key": "83e2faa7ea05",
+  "text": "吃我一戟！",
+  "voice": "浑厚男声",
+  "dur": 0.91,
+  "asr": "吃我一吃",
+  "score": 0.75
+ },
+ "skill_qiangxi_2": {
+  "key": "494bd2f38dbc",
+  "text": "古之恶来，在此！",
+  "voice": "浑厚男声",
+  "dur": 2.3,
+  "asr": "古之恶来在此",
+  "score": 1.0
+ },
+ "skill_quhu_1": {
+  "key": "b12be499672e",
+  "text": "让他们自相残杀吧。",
+  "voice": "人工老龙凤",
+  "dur": 1.41,
+  "asr": "让他们自相残杀吧。",
+  "score": 1.0
+ },
+ "skill_quhu_2": {
+  "key": "9fac2b022012",
+  "text": "二虎相争，必有一伤。",
+  "voice": "人工老龙凤",
+  "dur": 1.61,
+  "asr": "二虎相争必有一伤。",
+  "score": 1.0
+ },
+ "skill_jieming_1": {
+  "key": "b23ba82f9ba2",
+  "text": "秉忠贞之志，守谦退之节。",
+  "voice": "人工老龙凤",
+  "dur": 1.84,
+  "asr": "中真之志手牵腿之劫。",
+  "score": 0.95
+ },
+ "skill_jieming_2": {
+  "key": "33f7da15778f",
+  "text": "为国尽忠，死而后已。",
+  "voice": "人工老龙凤",
+  "dur": 1.59,
+  "asr": "为国尽忠,死而后已。",
+  "score": 1.0
+ },
+ "skill_duanliang_1": {
+  "key": "9abb455cfc13",
+  "text": "断其粮道，不攻自破！",
+  "voice": "人工老龙凤",
+  "dur": 1.66,
+  "asr": "短期两岛不攻自破。",
+  "score": 1.0
+ },
+ "skill_duanliang_2": {
+  "key": "38860ced6170",
+  "text": "截其粮草，乱其军心！",
+  "voice": "人工老龙凤",
+  "dur": 1.67,
+  "asr": "结起粮草乱起军心。",
+  "score": 1.0
+ },
+ "skill_xingshang_1": {
+  "key": "4a625bf6b73a",
+  "text": "汝之遗物，吾当收之。",
+  "voice": "人工老龙凤",
+  "dur": 1.64,
+  "asr": "辱之以武,无当收之。",
+  "score": 1.0
+ },
+ "skill_xingshang_2": {
+  "key": "dc46df2aa940",
+  "text": "逝者已矣，其物归我。",
+  "voice": "人工老龙凤",
+  "dur": 1.59,
+  "asr": "诗者已以其五归我。",
+  "score": 1.0
+ },
+ "skill_fangzhu_1": {
+  "key": "42f4af224928",
+  "text": "给我退下吧！",
+  "voice": "人工老龙凤",
+  "dur": 0.82,
+  "asr": "给我退下吧。",
+  "score": 1.0
+ },
+ "skill_fangzhu_2": {
+  "key": "316cb3f08860",
+  "text": "放逐他乡，永不得归！",
+  "voice": "人工老龙凤",
+  "dur": 1.57,
+  "asr": "放逐他相永不得归。",
+  "score": 1.0
+ },
+ "skill_songwei_1": {
+  "key": "e067b966204e",
+  "text": "千秋万载，一统江山！",
+  "voice": "人工老龙凤",
+  "dur": 1.61,
+  "asr": "千秋万载一统江山。",
+  "score": 1.0
+ },
+ "skill_songwei_2": {
+  "key": "021be9d7835c",
+  "text": "颂我威名！",
+  "voice": "人工老龙凤",
+  "dur": 0.74,
+  "asr": "送我微民",
+  "score": 0.75
+ },
+ "skill_rende_1": {
+  "key": "74a8eb858830",
+  "text": "以德服人。",
+  "voice": "人工老龙凤",
+  "dur": 0.72,
+  "asr": "以德服人",
+  "score": 1.0
+ },
+ "skill_rende_2": {
+  "key": "706d14b78ffb",
+  "text": "惟贤惟德，能服于人。",
+  "voice": "人工老龙凤",
+  "dur": 1.62,
+  "asr": "危险为德能服于人。",
+  "score": 1.0
+ },
+ "skill_jijiang_1": {
+  "key": "25ff1fe87970",
+  "text": "蜀将何在？",
+  "voice": "人工老龙凤",
+  "dur": 0.74,
+  "asr": "屬江河在",
+  "score": 1.0
+ },
+ "skill_jijiang_2": {
+  "key": "298b38d06ccb",
+  "text": "尔等可愿为我出战？",
+  "voice": "人工老龙凤",
+  "dur": 1.43,
+  "asr": "而等可愿为我出战。",
+  "score": 1.0
+ },
+ "skill_wusheng_1": {
+  "key": "3889900c09e6",
+  "text": "关羽在此，尔等受死！",
+  "voice": "沉稳男声",
+  "dur": 1.92,
+  "asr": "关于在此,而等收拾。",
+  "score": 0.88
+ },
+ "skill_wusheng_2": {
+  "key": "61a782a000b9",
+  "text": "看我青龙偃月！",
+  "voice": "沉稳男声",
+  "dur": 1.11,
+  "asr": "看我青龙演乐。",
+  "score": 0.83
+ },
+ "skill_paoxiao_1": {
+  "key": "4fe6a079546b",
+  "text": "燕人张飞在此！",
+  "voice": "浑厚男声",
+  "dur": 1.35,
+  "asr": "艳人装飞在此",
+  "score": 0.83
+ },
+ "skill_paoxiao_2": {
+  "key": "be2b456dc4dd",
+  "text": "谁敢与我决一死战！",
+  "voice": "浑厚男声",
+  "dur": 1.83,
+  "asr": "谁敢与我决一死战。",
+  "score": 1.0
+ },
+ "skill_guanxing_1": {
+  "key": "32895a4acbe9",
+  "text": "天象已明，一切尽在掌握。",
+  "voice": "人工老龙凤",
+  "dur": 1.98,
+  "asr": "天相已明,一切仅在掌握。",
+  "score": 1.0
+ },
+ "skill_guanxing_2": {
+  "key": "752fa12d80a5",
+  "text": "观今夜天象，知天下大事。",
+  "voice": "人工老龙凤",
+  "dur": 2.0,
+  "asr": "关键也天想之天下大事。",
+  "score": 0.9
+ },
+ "skill_kongcheng_1": {
+  "key": "8d64c7f700b5",
+  "text": "城中空虚，你敢进来吗？",
+  "voice": "人工老龙凤",
+  "dur": 1.85,
+  "asr": "程中空虚,你赶进来嘛。",
+  "score": 1.0
+ },
+ "skill_kongcheng_2": {
+  "key": "6ee892172658",
+  "text": "空城一座，请君入内。",
+  "voice": "人工老龙凤",
+  "dur": 1.55,
+  "asr": "《空城》一座请君入内。",
+  "score": 1.0
+ },
+ "skill_longdan_1": {
+  "key": "853e6cb70cf1",
+  "text": "常山赵子龙在此！",
+  "voice": "大一嘉豪哥",
+  "dur": 1.13,
+  "asr": "长山赵子龙在此。",
+  "score": 0.86
+ },
+ "skill_longdan_2": {
+  "key": "a2a72b42df34",
+  "text": "一身是胆！",
+  "voice": "大一嘉豪哥",
+  "dur": 0.67,
+  "asr": "一身勢膽",
+  "score": 1.0
+ },
+ "skill_tieqi_1": {
+  "key": "d62f65314999",
+  "text": "全军突击！",
+  "voice": "大一嘉豪哥",
+  "dur": 0.68,
+  "asr": "全军突击",
+  "score": 1.0
+ },
+ "skill_tieqi_2": {
+  "key": "94371da1fcd3",
+  "text": "西凉铁骑，所向披靡！",
+  "voice": "大一嘉豪哥",
+  "dur": 1.54,
+  "asr": "西梁铁旗所向披靡。",
+  "score": 1.0
+ },
+ "skill_jizhi_1": {
+  "key": "45dca16d347f",
+  "text": "妙计在心。",
+  "voice": "中文女声",
+  "dur": 1.49,
+  "asr": "妙記在心",
+  "score": 1.0
+ },
+ "skill_jizhi_2": {
+  "key": "614bbd24b74a",
+  "text": "我有一个好主意。",
+  "voice": "中文女声",
+  "dur": 2.18,
+  "asr": "我有一个好主意。",
+  "score": 1.0
+ },
+ "skill_liegong_1": {
+  "key": "c3abac5b0607",
+  "text": "看箭！百步穿杨！",
+  "voice": "浑厚男声",
+  "dur": 2.01,
+  "asr": "看见 白不穿羊",
+  "score": 1.0
+ },
+ "skill_liegong_2": {
+  "key": "50ef0711675a",
+  "text": "老夫的箭，从不虚发！",
+  "voice": "浑厚男声",
+  "dur": 1.93,
+  "asr": "罗夫的剑从不虚法。",
+  "score": 0.88
+ },
+ "skill_kuanggu_1": {
+  "key": "ea8cd7a01f02",
+  "text": "哈哈！痛快！",
+  "voice": "浑厚男声",
+  "dur": 1.82,
+  "asr": "哈哈,真快",
+  "score": 0.75
+ },
+ "skill_kuanggu_2": {
+  "key": "35371d5ceec3",
+  "text": "以血养血，越战越勇！",
+  "voice": "浑厚男声",
+  "dur": 2.49,
+  "asr": "以血氧血,越沾越勇。",
+  "score": 1.0
+ },
+ "skill_bazhen_1": {
+  "key": "ef7ef2d55074",
+  "text": "八阵图，困你于此。",
+  "voice": "人工老龙凤",
+  "dur": 1.43,
+  "asr": "八阵图困你于此。",
+  "score": 1.0
+ },
+ "skill_bazhen_2": {
+  "key": "ba4ed6e69231",
+  "text": "此阵，变化无穷。",
+  "voice": "人工老龙凤",
+  "dur": 1.19,
+  "asr": "此阵变化无穷。",
+  "score": 1.0
+ },
+ "skill_huoji_1": {
+  "key": "cc5ea3dd4ef8",
+  "text": "火攻之计，烧他个片甲不留！",
+  "voice": "人工老龙凤",
+  "dur": 2.18,
+  "asr": "火功之际,烧它个片假不留。",
+  "score": 1.0
+ },
+ "skill_huoji_2": {
+  "key": "3667049288d7",
+  "text": "东风已至，放火！",
+  "voice": "人工老龙凤",
+  "dur": 1.23,
+  "asr": "东风已至放火。",
+  "score": 1.0
+ },
+ "skill_kanpo_1": {
+  "key": "e8b750b79609",
+  "text": "此计，已被我看破。",
+  "voice": "人工老龙凤",
+  "dur": 1.37,
+  "asr": "此记已被我看破。",
+  "score": 1.0
+ },
+ "skill_kanpo_2": {
+  "key": "2d8e26be4524",
+  "text": "雕虫小技。",
+  "voice": "人工老龙凤",
+  "dur": 0.68,
+  "asr": "雕虫小技",
+  "score": 1.0
+ },
+ "skill_lianhuan_1": {
+  "key": "1574475c1c55",
+  "text": "连环之计，环环相扣。",
+  "voice": "人工老龙凤",
+  "dur": 1.64,
+  "asr": "连环之际环环相扣。",
+  "score": 1.0
+ },
+ "skill_lianhuan_2": {
+  "key": "154d16a9748a",
+  "text": "将他们锁在一起！",
+  "voice": "人工老龙凤",
+  "dur": 1.17,
+  "asr": "将它们锁在一起。",
+  "score": 1.0
+ },
+ "skill_niepan_1": {
+  "key": "874163630df1",
+  "text": "凤凰涅槃，浴火重生！",
+  "voice": "人工老龙凤",
+  "dur": 1.59,
+  "asr": "凤凰涅槃预火重生。",
+  "score": 1.0
+ },
+ "skill_niepan_2": {
+  "key": "baae2a30e5fa",
+  "text": "置之死地而后生！",
+  "voice": "人工老龙凤",
+  "dur": 1.21,
+  "asr": "致之死第二后生。",
+  "score": 1.0
+ },
+ "skill_juxiang_1": {
+  "key": "e6d2491cb603",
+  "text": "我的大象，可不怕你！",
+  "voice": "中文女声",
+  "dur": 2.89,
+  "asr": "我的大象,可不怕你。",
+  "score": 1.0
+ },
+ "skill_juxiang_2": {
+  "key": "0a4bbb8b5f07",
+  "text": "小象，过来！",
+  "voice": "中文女声",
+  "dur": 1.72,
+  "asr": "小象过来",
+  "score": 1.0
+ },
+ "skill_lieren_1": {
+  "key": "cf8063a7a5ad",
+  "text": "尝尝我的飞刀！",
+  "voice": "中文女声",
+  "dur": 1.91,
+  "asr": "尝尝我的飞刀",
+  "score": 1.0
+ },
+ "skill_lieren_2": {
+  "key": "7928d4bdcab9",
+  "text": "火神之女，岂容放肆！",
+  "voice": "中文女声",
+  "dur": 3.11,
+  "asr": "霍神之女,其容放肆。",
+  "score": 1.0
+ },
+ "skill_huoshou_1": {
+  "key": "451266c48a98",
+  "text": "南蛮的勇士们，冲啊！",
+  "voice": "浑厚男声",
+  "dur": 2.32,
+  "asr": "浪漫的勇士们,冲啊!",
+  "score": 0.88
+ },
+ "skill_huoshou_2": {
+  "key": "ba0ae72e1820",
+  "text": "我的地盘，我说了算！",
+  "voice": "浑厚男声",
+  "dur": 3.17,
+  "asr": "我的地盘我说了算",
+  "score": 1.0
+ },
+ "skill_zaiqi_1": {
+  "key": "2b10f2f0c353",
+  "text": "我还会再回来的！",
+  "voice": "浑厚男声",
+  "dur": 1.32,
+  "asr": "我还会再回来的。",
+  "score": 1.0
+ },
+ "skill_zaiqi_2": {
+  "key": "79568d8e12e7",
+  "text": "我不服，咱们再来！",
+  "voice": "浑厚男声",
+  "dur": 2.49,
+  "asr": "或不复咱们再来",
+  "score": 0.86
+ },
+ "skill_xiangle_1": {
+  "key": "51331d5fa906",
+  "text": "此间乐，不思蜀。",
+  "voice": "大一嘉豪哥",
+  "dur": 1.11,
+  "asr": "此间乐不思熟",
+  "score": 1.0
+ },
+ "skill_xiangle_2": {
+  "key": "125f9f47097e",
+  "text": "先请吃饭，再说打仗。",
+  "voice": "大一嘉豪哥",
+  "dur": 1.53,
+  "asr": "先请吃饭再说打仗。",
+  "score": 1.0
+ },
+ "skill_fangquan_1": {
+  "key": "0cf13a4aa6b8",
+  "text": "相父，你来吧。",
+  "voice": "大一嘉豪哥",
+  "dur": 0.77,
+  "asr": "相复你来吧。",
+  "score": 1.0
+ },
+ "skill_fangquan_2": {
+  "key": "90d83c569945",
+  "text": "这些事，交给你们办。",
+  "voice": "大一嘉豪哥",
+  "dur": 1.31,
+  "asr": "这些事交给你们办。",
+  "score": 1.0
+ },
+ "skill_tiaoxin_1": {
+  "key": "3c5e7f6e1dcc",
+  "text": "有本事就来打我！",
+  "voice": "大一嘉豪哥",
+  "dur": 1.13,
+  "asr": "有本事就来打我。",
+  "score": 1.0
+ },
+ "skill_tiaoxin_2": {
+  "key": "10d37ed6cb71",
+  "text": "敢与我一战否？",
+  "voice": "大一嘉豪哥",
+  "dur": 0.9,
+  "asr": "敢于我一战否。",
+  "score": 1.0
+ },
+ "skill_zhiji_1": {
+  "key": "c510a72b6db0",
+  "text": "丞相之志，我来继承！",
+  "voice": "大一嘉豪哥",
+  "dur": 1.56,
+  "asr": "成像之志 我来继承",
+  "score": 1.0
+ },
+ "skill_zhiji_2": {
+  "key": "da5501476aef",
+  "text": "继丞相遗志，讨伐魏贼！",
+  "voice": "大一嘉豪哥",
+  "dur": 1.63,
+  "asr": "继承向一致讨伐卫贼。",
+  "score": 1.0
+ },
+ "skill_zhiheng_1": {
+  "key": "c43833382787",
+  "text": "容我三思。",
+  "voice": "大一嘉豪哥",
+  "dur": 0.69,
+  "asr": "容我三四",
+  "score": 1.0
+ },
+ "skill_zhiheng_2": {
+  "key": "ecb49b388b72",
+  "text": "制衡之道，在于取舍。",
+  "voice": "大一嘉豪哥",
+  "dur": 1.48,
+  "asr": "智恒知道在于屈舍。",
+  "score": 1.0
+ },
+ "skill_jiuyuan_1": {
+  "key": "48bb0aab0b01",
+  "text": "吴国将士，救我！",
+  "voice": "大一嘉豪哥",
+  "dur": 1.08,
+  "asr": "无国将士救我。",
+  "score": 1.0
+ },
+ "skill_jiuyuan_2": {
+  "key": "2eaa7bde5aee",
+  "text": "有你们在，真好。",
+  "voice": "大一嘉豪哥",
+  "dur": 1.04,
+  "asr": "有你们在 真好",
+  "score": 1.0
+ },
+ "skill_qixi_1": {
+  "key": "354d1b6f6921",
+  "text": "锦帆贼来也！",
+  "voice": "大一嘉豪哥",
+  "dur": 0.72,
+  "asr": "警犯贼来",
+  "score": 0.67
+ },
+ "skill_qixi_2": {
+  "key": "afdc8829d3ca",
+  "text": "百骑劫营，谁敢挡我！",
+  "voice": "大一嘉豪哥",
+  "dur": 1.43,
+  "asr": "柏奇杰莹谁敢挡我",
+  "score": 1.0
+ },
+ "skill_keji_1": {
+  "key": "c2775d54ead4",
+  "text": "忍一时，风平浪静。",
+  "voice": "大一嘉豪哥",
+  "dur": 1.31,
+  "asr": "任一时风平浪静",
+  "score": 1.0
+ },
+ "skill_keji_2": {
+  "key": "c0776f2e2dee",
+  "text": "士别三日，当刮目相待。",
+  "voice": "大一嘉豪哥",
+  "dur": 1.77,
+  "asr": "识别三日当刮目相待。",
+  "score": 1.0
+ },
+ "skill_kurou_1": {
+  "key": "b442a59b9639",
+  "text": "请将军责罚末将！",
+  "voice": "沉稳男声",
+  "dur": 1.58,
+  "asr": "请将军则发末将。",
+  "score": 1.0
+ },
+ "skill_kurou_2": {
+  "key": "85ea8668e28a",
+  "text": "为了大吴，这点伤算什么！",
+  "voice": "沉稳男声",
+  "dur": 2.25,
+  "asr": "为了大吴,这点伤算什么?",
+  "score": 1.0
+ },
+ "skill_yingzi_1": {
+  "key": "b71fdb699089",
+  "text": "雄姿英发，羽扇纶巾。",
+  "voice": "大一嘉豪哥",
+  "dur": 1.56,
+  "asr": "熊子英发与善观金。",
+  "score": 0.88
+ },
+ "skill_yingzi_2": {
+  "key": "5950f9945574",
+  "text": "哈哈，天下英雄，谁能及我？",
+  "voice": "大一嘉豪哥",
+  "dur": 2.03,
+  "asr": "哈哈天下英雄谁能挤我",
+  "score": 1.0
+ },
+ "skill_fanjian_1": {
+  "key": "91c954677386",
+  "text": "中我反间之计了吧？",
+  "voice": "大一嘉豪哥",
+  "dur": 1.19,
+  "asr": "中国反建之际了吧。",
+  "score": 0.88
+ },
+ "skill_fanjian_2": {
+  "key": "41c17bde6593",
+  "text": "你上当了。",
+  "voice": "大一嘉豪哥",
+  "dur": 0.63,
+  "asr": "你上当了",
+  "score": 1.0
+ },
+ "skill_guose_1": {
+  "key": "69ce607761e4",
+  "text": "国色天香，请多关照。",
+  "voice": "中文女声",
+  "dur": 2.84,
+  "asr": "国色天香,请多关照。",
+  "score": 1.0
+ },
+ "skill_guose_2": {
+  "key": "e841c0f441f9",
+  "text": "看着我，别分心哦。",
+  "voice": "中文女声",
+  "dur": 2.81,
+  "asr": "看着我,别分心哦!",
+  "score": 1.0
+ },
+ "skill_liuli_1": {
+  "key": "7ac27f1fc37e",
+  "text": "这一刀，请你替我挡下。",
+  "voice": "中文女声",
+  "dur": 3.28,
+  "asr": "这一刀请你替我挡下。",
+  "score": 1.0
+ },
+ "skill_liuli_2": {
+  "key": "ea15e8d2eff6",
+  "text": "躲开就好了。",
+  "voice": "中文女声",
+  "dur": 1.61,
+  "asr": "躲开就好了。",
+  "score": 1.0
+ },
+ "skill_lianying_1": {
+  "key": "a687b9399c3c",
+  "text": "火烧连营，一举破敌！",
+  "voice": "大一嘉豪哥",
+  "dur": 1.45,
+  "asr": "火烧脸营一举破敌。",
+  "score": 1.0
+ },
+ "skill_lianying_2": {
+  "key": "f76de62ebdcb",
+  "text": "生生不息，绵绵不绝。",
+  "voice": "大一嘉豪哥",
+  "dur": 1.52,
+  "asr": "生生不息 绵绵不绝",
+  "score": 1.0
+ },
+ "skill_jieyin_1": {
+  "key": "3a695fab63a4",
+  "text": "夫君，身体要紧。",
+  "voice": "中文女声",
+  "dur": 2.46,
+  "asr": "夫君 身体要紧",
+  "score": 1.0
+ },
+ "skill_jieyin_2": {
+  "key": "6bd553596fb9",
+  "text": "我们一起，渡过难关。",
+  "voice": "中文女声",
+  "dur": 2.78,
+  "asr": "我们一起度过难关。",
+  "score": 1.0
+ },
+ "skill_xiaoji_1": {
+  "key": "9492f714ac94",
+  "text": "哼，这些都是身外之物。",
+  "voice": "中文女声",
+  "dur": 3.47,
+  "asr": "哼 这些都是身外之物",
+  "score": 1.0
+ },
+ "skill_xiaoji_2": {
+  "key": "240f3cd2eb0c",
+  "text": "弓腰姬，岂会怕你！",
+  "voice": "中文女声",
+  "dur": 2.53,
+  "asr": "攻妖姬 岂会怕你",
+  "score": 1.0
+ },
+ "skill_tianxiang_1": {
+  "key": "dc10152e6cd1",
+  "text": "替我挡着吧。",
+  "voice": "中文女声",
+  "dur": 1.58,
+  "asr": "替我挡着吧。",
+  "score": 1.0
+ },
+ "skill_tianxiang_2": {
+  "key": "eceb82583b80",
+  "text": "这一下，就交给你啦。",
+  "voice": "中文女声",
+  "dur": 2.93,
+  "asr": "这一下就交给你啦。",
+  "score": 1.0
+ },
+ "skill_tianyi_1": {
+  "key": "1087fdf4bb5c",
+  "text": "大丈夫当带三尺剑，立不世之功！",
+  "voice": "沉稳男声",
+  "dur": 2.88,
+  "asr": "大丈夫当代三尺剑,力不适之功。",
+  "score": 1.0
+ },
+ "skill_tianyi_2": {
+  "key": "a1df9ac660e5",
+  "text": "我来与你一决高下！",
+  "voice": "沉稳男声",
+  "dur": 1.45,
+  "asr": "我来与你一决高下。",
+  "score": 1.0
+ },
+ "skill_yinghun_1": {
+  "key": "313792d917f5",
+  "text": "以吾魂魄，保佑吾儿！",
+  "voice": "浑厚男声",
+  "dur": 3.02,
+  "asr": "已无魂魄,保佑我。",
+  "score": 0.8
+ },
+ "skill_yinghun_2": {
+  "key": "0d14b7b44ba7",
+  "text": "江东基业，必将传承！",
+  "voice": "浑厚男声",
+  "dur": 1.98,
+  "asr": "将冬季夜,必将传承。",
+  "score": 1.0
+ },
+ "skill_haoshi_1": {
+  "key": "1dbaaf710f86",
+  "text": "拿去吧，不必客气。",
+  "voice": "人工老龙凤",
+  "dur": 1.41,
+  "asr": "拿去吧,不必客气。",
+  "score": 1.0
+ },
+ "skill_haoshi_2": {
+  "key": "41cfc127ff6e",
+  "text": "钱财乃身外之物。",
+  "voice": "人工老龙凤",
+  "dur": 1.3,
+  "asr": "前才乃身外之物。",
+  "score": 1.0
+ },
+ "skill_dimeng_1": {
+  "key": "baa906bffd7c",
+  "text": "以和为贵。",
+  "voice": "人工老龙凤",
+  "dur": 0.66,
+  "asr": "以核违规",
+  "score": 1.0
+ },
+ "skill_dimeng_2": {
+  "key": "22cb6ca3ef7a",
+  "text": "我来做个和事佬。",
+  "voice": "人工老龙凤",
+  "dur": 1.2,
+  "asr": "我来做个核实脑。",
+  "score": 0.86
+ },
+ "skill_jiang_1": {
+  "key": "9e262c468db6",
+  "text": "江东小霸王在此！",
+  "voice": "大一嘉豪哥",
+  "dur": 1.21,
+  "asr": "江东小八王在此。",
+  "score": 1.0
+ },
+ "skill_jiang_2": {
+  "key": "d845ebc83800",
+  "text": "吾乃江东孙伯符！",
+  "voice": "大一嘉豪哥",
+  "dur": 1.22,
+  "asr": "吴乃江东孙博府",
+  "score": 1.0
+ },
+ "skill_hunzi_1": {
+  "key": "faf5be80f8f3",
+  "text": "父亲在天之灵，佑我！",
+  "voice": "大一嘉豪哥",
+  "dur": 1.49,
+  "asr": "父亲在天之灵 诱我。",
+  "score": 1.0
+ },
+ "skill_hunzi_2": {
+  "key": "0df42c1489a1",
+  "text": "此身虽死，英魂不灭！",
+  "voice": "大一嘉豪哥",
+  "dur": 1.5,
+  "asr": "此生虽死英魂不灭",
+  "score": 0.88
+ },
+ "skill_jijiu_1": {
+  "key": "fc613c3fd624",
+  "text": "别紧张，有老夫在。",
+  "voice": "沉稳男声",
+  "dur": 2.15,
+  "asr": "而别紧张,有老夫在。",
+  "score": 0.93
+ },
+ "skill_jijiu_2": {
+  "key": "7b6d7d437270",
+  "text": "救死扶伤，医者本分。",
+  "voice": "沉稳男声",
+  "dur": 2.44,
+  "asr": "也就是福商,依者本分。",
+  "score": 0.82
+ },
+ "skill_qingnang_1": {
+  "key": "00d30f5765f4",
+  "text": "早睡早起，方能养生。",
+  "voice": "沉稳男声",
+  "dur": 2.06,
+  "asr": "早睡早起 放能养生",
+  "score": 1.0
+ },
+ "skill_qingnang_2": {
+  "key": "363133e6500c",
+  "text": "妙手回春。",
+  "voice": "沉稳男声",
+  "dur": 1.08,
+  "asr": "描手回春。",
+  "score": 1.0
+ },
+ "skill_wushuang_1": {
+  "key": "ba3d423d9423",
+  "text": "天下谁人能挡我！",
+  "voice": "浑厚男声",
+  "dur": 2.01,
+  "asr": "天下谁人能当我?",
+  "score": 1.0
+ },
+ "skill_wushuang_2": {
+  "key": "bd1621bbb2f4",
+  "text": "人中吕布，马中赤兔！",
+  "voice": "浑厚男声",
+  "dur": 2.5,
+  "asr": "人中旅步,马中赤土。",
+  "score": 1.0
+ },
+ "skill_lijian_1": {
+  "key": "ae77b254f7d8",
+  "text": "你们打起来吧。",
+  "voice": "中文女声",
+  "dur": 1.68,
+  "asr": "你们打起来吧。",
+  "score": 1.0
+ },
+ "skill_lijian_2": {
+  "key": "7872c619578f",
+  "text": "两位将军，莫要为我争执。",
+  "voice": "中文女声",
+  "dur": 3.77,
+  "asr": "两位将军,莫要为我征职。",
+  "score": 1.0
+ },
+ "skill_biyue_1": {
+  "key": "37045d12bc18",
+  "text": "月儿，也为我害羞了吗？",
+  "voice": "中文女声",
+  "dur": 3.09,
+  "asr": "月儿,爷为我害羞了吗?",
+  "score": 1.0
+ },
+ "skill_biyue_2": {
+  "key": "2e3946281e59",
+  "text": "闭月之貌，羞花之容。",
+  "voice": "中文女声",
+  "dur": 3.08,
+  "asr": "彼月之茂,修花之荣。",
+  "score": 1.0
+ },
+ "skill_luanji_1": {
+  "key": "f7a00ba925c0",
+  "text": "弓箭手，准备放箭！",
+  "voice": "浑厚男声",
+  "dur": 1.7,
+  "asr": "攻减手,准备放箭。",
+  "score": 1.0
+ },
+ "skill_luanji_2": {
+  "key": "b839d879a6a5",
+  "text": "全都给我射！",
+  "voice": "浑厚男声",
+  "dur": 1.26,
+  "asr": "全都给我设。",
+  "score": 1.0
+ },
+ "skill_shuangxiong_1": {
+  "key": "b1f0c4895895",
+  "text": "吾乃河北上将颜良文丑！",
+  "voice": "浑厚男声",
+  "dur": 2.65,
+  "asr": "无奈和悲伤将颜良温丑。",
+  "score": 1.0
+ },
+ "skill_shuangxiong_2": {
+  "key": "9c8805668a0a",
+  "text": "兄弟同心，其利断金！",
+  "voice": "浑厚男声",
+  "dur": 2.19,
+  "asr": "兄弟同心,祈离断经。",
+  "score": 0.88
+ },
+ "skill_mengjin_1": {
+  "key": "876e86ad0b19",
+  "text": "我要杀个痛快！",
+  "voice": "沉稳男声",
+  "dur": 1.08,
+  "asr": "我要杀个痛快。",
+  "score": 1.0
+ },
+ "skill_mengjin_2": {
+  "key": "b38122b0ba57",
+  "text": "抬棺而战，誓死不退！",
+  "voice": "沉稳男声",
+  "dur": 1.96,
+  "asr": "胎官战,誓死不退。",
+  "score": 0.93
+ },
+ "skill_jiuchi_1": {
+  "key": "ba911b7d6191",
+  "text": "好酒！好酒！",
+  "voice": "浑厚男声",
+  "dur": 1.87,
+  "asr": "好就好就",
+  "score": 1.0
+ },
+ "skill_jiuchi_2": {
+  "key": "58ba4f84c989",
+  "text": "再来一壶！",
+  "voice": "浑厚男声",
+  "dur": 0.76,
+  "asr": "在那一乎",
+  "score": 0.75
+ },
+ "skill_benghuai_1": {
+  "key": "10b741d56eba",
+  "text": "我是不是该减肥了？",
+  "voice": "浑厚男声",
+  "dur": 2.39,
+  "asr": "我是不是该减肥了?",
+  "score": 1.0
+ },
+ "skill_benghuai_2": {
+  "key": "560f6efc3952",
+  "text": "嗯，身体有些不适。",
+  "voice": "浑厚男声",
+  "dur": 2.16,
+  "asr": "嗯,身体有些不适。",
+  "score": 1.0
+ },
+ "skill_baonue_1": {
+  "key": "d718f0fb5188",
+  "text": "顺我者昌，逆我者亡！",
+  "voice": "浑厚男声",
+  "dur": 2.42,
+  "asr": "顺,我者昌,你我者亡。",
+  "score": 1.0
+ },
+ "skill_baonue_2": {
+  "key": "8fbd84df7d15",
+  "text": "哈哈哈，都是我的！",
+  "voice": "浑厚男声",
+  "dur": 1.66,
+  "asr": "哈哈,这是我的……",
+  "score": 0.77
+ },
+ "skill_wansha_1": {
+  "key": "06354e4050f6",
+  "text": "神仙难救，神仙难救啊。",
+  "voice": "人工老龙凤",
+  "dur": 1.75,
+  "asr": "神仙难救 神仙难救啊。",
+  "score": 1.0
+ },
+ "skill_wansha_2": {
+  "key": "0be6b4a18493",
+  "text": "我要你三更死，谁敢留你到五更？",
+  "voice": "人工老龙凤",
+  "dur": 2.54,
+  "asr": "我要你三更死 谁敢留你到五更",
+  "score": 1.0
+ },
+ "skill_luanwu_1": {
+  "key": "1b05ddd04b68",
+  "text": "哼，都去死吧。",
+  "voice": "人工老龙凤",
+  "dur": 0.85,
+  "asr": "都去死吧。",
+  "score": 0.89
+ },
+ "skill_luanwu_2": {
+  "key": "16bc7f50208a",
+  "text": "乱吧，越乱越好！",
+  "voice": "人工老龙凤",
+  "dur": 1.15,
+  "asr": "乱把越乱越好。",
+  "score": 1.0
+ },
+ "skill_leiji_1": {
+  "key": "e814fc868745",
+  "text": "以我之真气，合天地之造化！",
+  "voice": "人工老龙凤",
+  "dur": 2.03,
+  "asr": "以我之真气和天底之造化。",
+  "score": 1.0
+ },
+ "skill_leiji_2": {
+  "key": "79256b343ef7",
+  "text": "雷公助我！",
+  "voice": "人工老龙凤",
+  "dur": 0.77,
+  "asr": "雷公主我",
+  "score": 1.0
+ },
+ "skill_guidao_1": {
+  "key": "c29c61ce952f",
+  "text": "天下大势，为我所控。",
+  "voice": "人工老龙凤",
+  "dur": 1.54,
+  "asr": "天下大师为我所控。",
+  "score": 1.0
+ },
+ "skill_guidao_2": {
+  "key": "3b14b2840f94",
+  "text": "你的命运，我说了算。",
+  "voice": "人工老龙凤",
+  "dur": 1.65,
+  "asr": "你的命运 我说了算。",
+  "score": 1.0
+ },
+ "skill_beige_1": {
+  "key": "881ad956bdf1",
+  "text": "胡笳一曲，悲歌一声。",
+  "voice": "中文女声",
+  "dur": 2.79,
+  "asr": "胡家一曲 悲歌一声",
+  "score": 1.0
+ },
+ "skill_beige_2": {
+  "key": "81f0ea19a297",
+  "text": "制兹八拍兮拟俳优。",
+  "voice": "中文女声",
+  "dur": 2.67,
+  "asr": "字之八派,吸你排呦。",
+  "score": 0.88
+ },
+ "skill_duanchang_1": {
+  "key": "872160ae132e",
+  "text": "杀了我，你也别想好过。",
+  "voice": "中文女声",
+  "dur": 3.47,
+  "asr": "杀了我,你也别想好过。",
+  "score": 1.0
+ },
+ "skill_duanchang_2": {
+  "key": "0e31bb186aaa",
+  "text": "断肠之痛，你也尝尝！",
+  "voice": "中文女声",
+  "dur": 3.15,
+  "asr": "断肠之痛,你也尝尝。",
+  "score": 1.0
+ },
+ "death_caocao": {
+  "key": "be4c45b32560",
+  "text": "霸业未成，可惜……可惜……",
+  "voice": "浑厚男声",
+  "dur": 3.58,
+  "asr": "八页未成可惜可惜",
+  "score": 1.0
+ },
+ "death_simayi": {
+  "key": "6cf5d552c81a",
+  "text": "老夫……竟算漏了一步……",
+  "voice": "人工老龙凤",
+  "dur": 1.73,
+  "asr": "老夫挖入竞算漏了一步。",
+  "score": 0.89
+ },
+ "death_xiahoudun": {
+  "key": "fae46db4ca27",
+  "text": "我还没打够呢……",
+  "voice": "浑厚男声",
+  "dur": 1.3,
+  "asr": "我还没答够呢?",
+  "score": 1.0
+ },
+ "death_zhangliao": {
+  "key": "2b06ed3acddf",
+  "text": "威震逍遥津……此生无憾……",
+  "voice": "沉稳男声",
+  "dur": 3.79,
+  "asr": "威震逍遥惊恩,此生无憾。",
+  "score": 0.84
+ },
+ "death_xuchu": {
+  "key": "3dc171bbf976",
+  "text": "这次……没打赢……",
+  "voice": "浑厚男声",
+  "dur": 1.56,
+  "asr": "这次没答应。",
+  "score": 1.0
+ },
+ "death_guojia": {
+  "key": "864f0ba0db87",
+  "text": "天下之事……未尽啊……",
+  "voice": "人工老龙凤",
+  "dur": 1.81,
+  "asr": "天下之事为谨啊。",
+  "score": 1.0
+ },
+ "death_zhenji": {
+  "key": "30e96471ce1b",
+  "text": "此生……再难相见……",
+  "voice": "中文女声",
+  "dur": 3.18,
+  "asr": "此生在南乡见。",
+  "score": 1.0
+ },
+ "death_xiahouyuan": {
+  "key": "17e3e8942ae3",
+  "text": "竟然……比我还快……",
+  "voice": "沉稳男声",
+  "dur": 2.34,
+  "asr": "而竟然比我还快。",
+  "score": 0.92
+ },
+ "death_caoren": {
+  "key": "0cbb0f156789",
+  "text": "城……还是破了……",
+  "voice": "人工老龙凤",
+  "dur": 1.41,
+  "asr": "城马还是破了梦。",
+  "score": 0.83
+ },
+ "death_dianwei": {
+  "key": "b84b12d0b0d9",
+  "text": "主公快走，典韦断后！",
+  "voice": "浑厚男声",
+  "dur": 2.45,
+  "asr": "祝功快走,点为断后。",
+  "score": 1.0
+ },
+ "death_xunyu": {
+  "key": "f893cff62c3f",
+  "text": "身为汉臣，至死不渝……",
+  "voice": "人工老龙凤",
+  "dur": 1.82,
+  "asr": "身为汉臣致死不渝。",
+  "score": 1.0
+ },
+ "death_xuhuang": {
+  "key": "5284d22af490",
+  "text": "将军……亦有败时……",
+  "voice": "人工老龙凤",
+  "dur": 1.52,
+  "asr": "将军亦有败使。",
+  "score": 1.0
+ },
+ "death_caopi": {
+  "key": "96315ee4ca50",
+  "text": "子建……子建……",
+  "voice": "人工老龙凤",
+  "dur": 1.12,
+  "asr": "自建安慰自建",
+  "score": 0.8
+ },
+ "death_liubei": {
+  "key": "2bd6e169ee2f",
+  "text": "汉室……未能兴复……",
+  "voice": "人工老龙凤",
+  "dur": 1.57,
+  "asr": "汉时误未能幸福。",
+  "score": 0.92
+ },
+ "death_guanyu": {
+  "key": "7306f7812b09",
+  "text": "什么？此地名叫麦城？",
+  "voice": "沉稳男声",
+  "dur": 2.27,
+  "asr": "而什么? 此地名叫麦城。",
+  "score": 0.94
+ },
+ "death_zhangfei": {
+  "key": "2de967f3a076",
+  "text": "俺老张今天打不动了。",
+  "voice": "浑厚男声",
+  "dur": 2.76,
+  "asr": "安老张,今天打不动了。",
+  "score": 1.0
+ },
+ "death_zhugeliang": {
+  "key": "5464a79a6f3d",
+  "text": "鞠躬尽瘁，死而后已……",
+  "voice": "人工老龙凤",
+  "dur": 1.54,
+  "asr": "鞠躬尽粹死而后已。",
+  "score": 1.0
+ },
+ "death_zhaoyun": {
+  "key": "7598d8ed522f",
+  "text": "这就是……失败的滋味吗……",
+  "voice": "大一嘉豪哥",
+  "dur": 1.85,
+  "asr": "这就是阿娥失败的滋味吗?",
+  "score": 0.9
+ },
+ "death_machao": {
+  "key": "7203d44bf4e3",
+  "text": "请将我……葬在西凉……",
+  "voice": "大一嘉豪哥",
+  "dur": 1.58,
+  "asr": "请将我葬在西梁。",
+  "score": 1.0
+ },
+ "death_huangyueying": {
+  "key": "84ca0213eaf3",
+  "text": "亮，我先走一步了……",
+  "voice": "中文女声",
+  "dur": 2.56,
+  "asr": "亮!我先走一步了。",
+  "score": 1.0
+ },
+ "death_huangzhong": {
+  "key": "4daeeba02155",
+  "text": "老夫终究是老了啊。",
+  "voice": "浑厚男声",
+  "dur": 2.08,
+  "asr": "罗福正就是罗了。",
+  "score": 0.53
+ },
+ "death_weiyan": {
+  "key": "35447ae381e1",
+  "text": "谁敢杀我……竟然……",
+  "voice": "浑厚男声",
+  "dur": 2.96,
+  "asr": "谁敢杀我 竟然",
+  "score": 1.0
+ },
+ "death_wolong": {
+  "key": "faf06ea88e86",
+  "text": "悠悠苍天，曷此其极……",
+  "voice": "人工老龙凤",
+  "dur": 1.64,
+  "asr": "悠悠苍田 和此奇迹",
+  "score": 1.0
+ },
+ "death_pangtong": {
+  "key": "02541e7a2703",
+  "text": "落凤坡……果然……",
+  "voice": "人工老龙凤",
+  "dur": 1.33,
+  "asr": "洛峰博物果然",
+  "score": 0.73
+ },
+ "death_zhurong": {
+  "key": "a41e3876c941",
+  "text": "大王……我先走了……",
+  "voice": "中文女声",
+  "dur": 2.71,
+  "asr": "大王,嗯,我先走了!",
+  "score": 0.92
+ },
+ "death_menghuo": {
+  "key": "f1a3a1c5e98b",
+  "text": "这次……我服了……",
+  "voice": "浑厚男声",
+  "dur": 2.21,
+  "asr": "这次,我复了。",
+  "score": 1.0
+ },
+ "death_liushan": {
+  "key": "2a235777b278",
+  "text": "我……可以投降吗……",
+  "voice": "大一嘉豪哥",
+  "dur": 1.29,
+  "asr": "我可以投降吗?",
+  "score": 1.0
+ },
+ "death_jiangwei": {
+  "key": "f74086402e6b",
+  "text": "大汉……终究……",
+  "voice": "大一嘉豪哥",
+  "dur": 0.91,
+  "asr": "大汗们终究",
+  "score": 0.89
+ },
+ "death_sunquan": {
+  "key": "18d987ab1299",
+  "text": "父亲，兄长……我愧对你们……",
+  "voice": "大一嘉豪哥",
+  "dur": 2.12,
+  "asr": "父亲 兄长 我愧对你们",
+  "score": 1.0
+ },
+ "death_ganning": {
+  "key": "97abfaec7473",
+  "text": "铃声……停了……",
+  "voice": "大一嘉豪哥",
+  "dur": 0.92,
+  "asr": "零声停了",
+  "score": 1.0
+ },
+ "death_lvmeng": {
+  "key": "a469fdb8ff3e",
+  "text": "白衣渡江……一场梦……",
+  "voice": "大一嘉豪哥",
+  "dur": 1.59,
+  "asr": "白度将亦常梦。",
+  "score": 0.92
+ },
+ "death_huanggai": {
+  "key": "a6701766942c",
+  "text": "火……烧起来了吗……",
+  "voice": "沉稳男声",
+  "dur": 1.61,
+  "asr": "火 烧起来了吗?",
+  "score": 1.0
+ },
+ "death_zhouyu": {
+  "key": "362b8a579c1f",
+  "text": "既生瑜，何生亮……",
+  "voice": "大一嘉豪哥",
+  "dur": 1.27,
+  "asr": "记声鱼和声量",
+  "score": 1.0
+ },
+ "death_daqiao": {
+  "key": "d7b259127987",
+  "text": "伯符……我来陪你了……",
+  "voice": "中文女声",
+  "dur": 3.14,
+  "asr": "伯福,我来陪你呢。",
+  "score": 0.86
+ },
+ "death_luxun": {
+  "key": "6a4c81ecebb9",
+  "text": "还是……太年轻了……",
+  "voice": "大一嘉豪哥",
+  "dur": 1.34,
+  "asr": "还是二太年轻了。",
+  "score": 0.92
+ },
+ "death_sunshangxiang": {
+  "key": "c275fa4cbab9",
+  "text": "不！我还要和夫君……",
+  "voice": "中文女声",
+  "dur": 2.84,
+  "asr": "不,我还要和夫君?",
+  "score": 1.0
+ },
+ "death_xiaoqiao": {
+  "key": "4829ca3f928a",
+  "text": "公瑾……公瑾……",
+  "voice": "中文女声",
+  "dur": 2.31,
+  "asr": "恭敬恭敬",
+  "score": 0.5
+ },
+ "death_taishici": {
+  "key": "22625e8ffa16",
+  "text": "大丈夫之志……未酬……",
+  "voice": "沉稳男声",
+  "dur": 2.71,
+  "asr": "大丈夫指致娃娃为仇威。",
+  "score": 0.82
+ },
+ "death_sunjian": {
+  "key": "4683bd90e929",
+  "text": "可恨啊，竟中了埋伏。",
+  "voice": "浑厚男声",
+  "dur": 2.36,
+  "asr": "可恨,尽中了麦。",
+  "score": 0.71
+ },
+ "death_lusu": {
+  "key": "ffe76860c12e",
+  "text": "孙刘之盟……不可破……",
+  "voice": "人工老龙凤",
+  "dur": 1.69,
+  "asr": "孙刘之盟不可破。",
+  "score": 1.0
+ },
+ "death_sunce": {
+  "key": "ee6c785f1493",
+  "text": "内事不决问张昭，外事不决问周瑜……",
+  "voice": "大一嘉豪哥",
+  "dur": 2.54,
+  "asr": "内事不决问张昭,外事不决问周瑜。",
+  "score": 1.0
+ },
+ "death_huatuo": {
+  "key": "484c3f923455",
+  "text": "医者不能自医啊……",
+  "voice": "沉稳男声",
+  "dur": 2.22,
+  "asr": "义者不能自义。啊……",
+  "score": 1.0
+ },
+ "death_lvbu": {
+  "key": "aaa288fb7261",
+  "text": "不可能！",
+  "voice": "浑厚男声",
+  "dur": 0.75,
+  "asr": "不可能",
+  "score": 1.0
+ },
+ "death_diaochan": {
+  "key": "1d2925d09ac2",
+  "text": "义父，我无能为力了……",
+  "voice": "中文女声",
+  "dur": 3.34,
+  "asr": "义父,我无能为力了。",
+  "score": 1.0
+ },
+ "death_yuanshao": {
+  "key": "a38fe02498b8",
+  "text": "我袁家……怎会如此……",
+  "voice": "浑厚男声",
+  "dur": 2.0,
+  "asr": "我冤家怎会如此",
+  "score": 1.0
+ },
+ "death_yanliangwenchou": {
+  "key": "7181b17778a9",
+  "text": "这红脸长须的……是谁……",
+  "voice": "浑厚男声",
+  "dur": 2.39,
+  "asr": "这红脸长绪的是C",
+  "score": 0.93
+ },
+ "death_pangde": {
+  "key": "13e8c5f026b2",
+  "text": "宁为国家鬼，不为贼将也……",
+  "voice": "沉稳男声",
+  "dur": 2.9,
+  "asr": "年为国家鬼,不为贼疆野。",
+  "score": 0.9
+ },
+ "death_dongzhuo": {
+  "key": "b0264cd31577",
+  "text": "汉室衰落，非我一人之罪……",
+  "voice": "浑厚男声",
+  "dur": 3.52,
+  "asr": "漢氏衰落非我一人之罪啊",
+  "score": 0.95
+ },
+ "death_jiaxu": {
+  "key": "cec9854f71b1",
+  "text": "我的时辰……也到了……",
+  "voice": "人工老龙凤",
+  "dur": 1.61,
+  "asr": "我的时肯 也到了。",
+  "score": 0.86
+ },
+ "death_zhangjiao": {
+  "key": "68126b243288",
+  "text": "黄天……也死了……",
+  "voice": "人工老龙凤",
+  "dur": 1.29,
+  "asr": "黄天也死了。",
+  "score": 1.0
+ },
+ "death_caiwenji": {
+  "key": "33d5693fd6f3",
+  "text": "人生几何时，怀忧终年岁……",
+  "voice": "中文女声",
+  "dur": 4.28,
+  "asr": "人生几何时,怀忧终年岁华。",
+  "score": 0.95
+ },
+ "card_m_sha": {
+  "key": "a84445fc9bfc",
+  "text": "杀！",
+  "voice": "人工老龙凤",
+  "dur": 0.41,
+  "asr": "沙",
+  "score": 1.0
+ },
+ "card_f_sha": {
+  "key": "224543d5a1b1",
+  "text": "杀！",
+  "voice": "中文女声",
+  "dur": 0.65,
+  "asr": "傻",
+  "score": 1.0
+ },
+ "card_m_huosha": {
+  "key": "66a10e07cae6",
+  "text": "火杀！",
+  "voice": "人工老龙凤",
+  "dur": 0.58,
+  "asr": "火沙",
+  "score": 1.0
+ },
+ "card_f_huosha": {
+  "key": "3507bb2e42b6",
+  "text": "火杀！",
+  "voice": "中文女声",
+  "dur": 2.12,
+  "asr": "火鯊",
+  "score": 1.0
+ },
+ "card_m_leisha": {
+  "key": "e4c853a08ea6",
+  "text": "雷杀！",
+  "voice": "人工老龙凤",
+  "dur": 0.69,
+  "asr": "雷沙",
+  "score": 1.0
+ },
+ "card_f_leisha": {
+  "key": "9c2f1d23557e",
+  "text": "雷杀！",
+  "voice": "中文女声",
+  "dur": 2.33,
+  "asr": "雷沙",
+  "score": 1.0
+ },
+ "card_m_shan": {
+  "key": "cf5649c7161b",
+  "text": "闪！",
+  "voice": "人工老龙凤",
+  "dur": 0.47,
+  "asr": "閃",
+  "score": 1.0
+ },
+ "card_f_shan": {
+  "key": "0e2b06915cd6",
+  "text": "闪！",
+  "voice": "中文女声",
+  "dur": 0.96,
+  "asr": "SUN",
+  "score": 0.0
+ },
+ "card_m_tao": {
+  "key": "30d2b6185d42",
+  "text": "桃！",
+  "voice": "人工老龙凤",
+  "dur": 0.33,
+  "asr": "逃",
+  "score": 1.0
+ },
+ "card_f_tao": {
+  "key": "234525f11a18",
+  "text": "桃！",
+  "voice": "中文女声",
+  "dur": 0.67,
+  "asr": "逃",
+  "score": 1.0
+ },
+ "card_m_jiu": {
+  "key": "4dd3bd0db5c4",
+  "text": "酒！",
+  "voice": "人工老龙凤",
+  "dur": 0.43,
+  "asr": "就",
+  "score": 1.0
+ },
+ "card_f_jiu": {
+  "key": "69d15d677160",
+  "text": "酒！",
+  "voice": "中文女声",
+  "dur": 0.65,
+  "asr": "久",
+  "score": 1.0
+ },
+ "card_m_juedou": {
+  "key": "763005416c2b",
+  "text": "决斗！",
+  "voice": "人工老龙凤",
+  "dur": 0.45,
+  "asr": "决斗",
+  "score": 1.0
+ },
+ "card_f_juedou": {
+  "key": "f2a64a5831cf",
+  "text": "决斗！",
+  "voice": "中文女声",
+  "dur": 1.31,
+  "asr": "決鬥",
+  "score": 1.0
+ },
+ "card_m_guohe": {
+  "key": "bae340bf42c2",
+  "text": "过河拆桥！",
+  "voice": "人工老龙凤",
+  "dur": 0.72,
+  "asr": "过河拆桥",
+  "score": 1.0
+ },
+ "card_f_guohe": {
+  "key": "4d53334069e3",
+  "text": "过河拆桥！",
+  "voice": "中文女声",
+  "dur": 1.51,
+  "asr": "过河拆桥",
+  "score": 1.0
+ },
+ "card_m_shunshou": {
+  "key": "4798d5cdf91b",
+  "text": "顺手牵羊！",
+  "voice": "人工老龙凤",
+  "dur": 0.77,
+  "asr": "顺手牵扬",
+  "score": 1.0
+ },
+ "card_f_shunshou": {
+  "key": "e7915a63425b",
+  "text": "顺手牵羊！",
+  "voice": "中文女声",
+  "dur": 1.51,
+  "asr": "順手牽羊",
+  "score": 1.0
+ },
+ "card_m_wuzhong": {
+  "key": "382ec4f8f999",
+  "text": "无中生有！",
+  "voice": "人工老龙凤",
+  "dur": 0.66,
+  "asr": "終生有",
+  "score": 0.86
+ },
+ "card_f_wuzhong": {
+  "key": "286e8ca93600",
+  "text": "无中生有！",
+  "voice": "中文女声",
+  "dur": 1.19,
+  "asr": "無眾生有",
+  "score": 1.0
+ },
+ "card_m_jiedao": {
+  "key": "3c882b301b36",
+  "text": "借刀杀人！",
+  "voice": "人工老龙凤",
+  "dur": 0.74,
+  "asr": "解刀杀人",
+  "score": 1.0
+ },
+ "card_f_jiedao": {
+  "key": "35da021076b8",
+  "text": "借刀杀人！",
+  "voice": "中文女声",
+  "dur": 1.44,
+  "asr": "戒刀殺人",
+  "score": 1.0
+ },
+ "card_m_nanman": {
+  "key": "87ec39fb234d",
+  "text": "南蛮入侵！",
+  "voice": "人工老龙凤",
+  "dur": 0.74,
+  "asr": "南蛮入侵",
+  "score": 1.0
+ },
+ "card_f_nanman": {
+  "key": "fde7544ff458",
+  "text": "南蛮入侵！",
+  "voice": "中文女声",
+  "dur": 1.46,
+  "asr": "难瞒入侵",
+  "score": 1.0
+ },
+ "card_m_wanjian": {
+  "key": "216d650095e2",
+  "text": "万箭齐发！",
+  "voice": "人工老龙凤",
+  "dur": 0.77,
+  "asr": "万箭齐发",
+  "score": 1.0
+ },
+ "card_f_wanjian": {
+  "key": "1ae7e9f45d69",
+  "text": "万箭齐发！",
+  "voice": "中文女声",
+  "dur": 1.54,
+  "asr": "萬箭啟發",
+  "score": 1.0
+ },
+ "card_m_taoyuan": {
+  "key": "f4765f209fe9",
+  "text": "桃园结义！",
+  "voice": "人工老龙凤",
+  "dur": 0.75,
+  "asr": "桃園結藝",
+  "score": 1.0
+ },
+ "card_f_taoyuan": {
+  "key": "8da3c22adbfd",
+  "text": "桃园结义！",
+  "voice": "中文女声",
+  "dur": 1.35,
+  "asr": "桃園劫役",
+  "score": 1.0
+ },
+ "card_m_wugu": {
+  "key": "cbd8e2fb748f",
+  "text": "五谷丰登！",
+  "voice": "人工老龙凤",
+  "dur": 0.52,
+  "asr": "封登",
+  "score": 0.67
+ },
+ "card_f_wugu": {
+  "key": "79f9f6e072b9",
+  "text": "五谷丰登！",
+  "voice": "中文女声",
+  "dur": 1.4,
+  "asr": "五穀風燈",
+  "score": 1.0
+ },
+ "card_m_wuxie": {
+  "key": "7ac685b1e842",
+  "text": "无懈可击！",
+  "voice": "人工老龙凤",
+  "dur": 0.7,
+  "asr": "卸科技",
+  "score": 0.86
+ },
+ "card_f_wuxie": {
+  "key": "921a08150df7",
+  "text": "无懈可击！",
+  "voice": "中文女声",
+  "dur": 1.48,
+  "asr": "無懈可激",
+  "score": 1.0
+ },
+ "card_m_huogong": {
+  "key": "efdeef694df9",
+  "text": "火攻！",
+  "voice": "人工老龙凤",
+  "dur": 0.49,
+  "asr": "火功",
+  "score": 1.0
+ },
+ "card_f_huogong": {
+  "key": "c5e9cb3848e1",
+  "text": "火攻！",
+  "voice": "中文女声",
+  "dur": 0.94,
+  "asr": "火功",
+  "score": 1.0
+ },
+ "card_m_tiesuo": {
+  "key": "8006162fea09",
+  "text": "铁索连环！",
+  "voice": "人工老龙凤",
+  "dur": 0.73,
+  "asr": "铁锁连环",
+  "score": 1.0
+ },
+ "card_f_tiesuo": {
+  "key": "80e427cdd77e",
+  "text": "铁索连环！",
+  "voice": "中文女声",
+  "dur": 1.47,
+  "asr": "铁锁连环",
+  "score": 1.0
+ },
+ "card_m_lebu": {
+  "key": "dd4200ac2fbd",
+  "text": "乐不思蜀！",
+  "voice": "人工老龙凤",
+  "dur": 0.69,
+  "asr": "乐不思熟",
+  "score": 1.0
+ },
+ "card_f_lebu": {
+  "key": "bd91c2d874c0",
+  "text": "乐不思蜀！",
+  "voice": "中文女声",
+  "dur": 1.4,
+  "asr": "乐不思俗",
+  "score": 0.75
+ },
+ "card_m_bingliang": {
+  "key": "54d5948cf40e",
+  "text": "兵粮寸断！",
+  "voice": "人工老龙凤",
+  "dur": 0.61,
+  "asr": "2寸短",
+  "score": 0.67
+ },
+ "card_f_bingliang": {
+  "key": "73344c9589a0",
+  "text": "兵粮寸断！",
+  "voice": "中文女声",
+  "dur": 1.44,
+  "asr": "冰涼寸断",
+  "score": 1.0
+ },
+ "card_m_shandian": {
+  "key": "8f8d5c58440f",
+  "text": "闪电！",
+  "voice": "人工老龙凤",
+  "dur": 0.69,
+  "asr": "閃電",
+  "score": 1.0
+ },
+ "card_f_shandian": {
+  "key": "f7e2fcd92ca2",
+  "text": "闪电！",
+  "voice": "中文女声",
+  "dur": 1.02,
+  "asr": "閃電",
+  "score": 1.0
+ }
+}

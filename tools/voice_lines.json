@@ -1,0 +1,1267 @@
+[
+ {
+  "id": "skill_jianxiong_1",
+  "text": "天下之物，皆可为我所用。",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_jianxiong_2",
+  "text": "此物，归我了！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_hujia_1",
+  "text": "魏国将士，速来护驾！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_hujia_2",
+  "text": "护驾！护驾！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_fankui_1",
+  "text": "伤我者，必付出代价。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_fankui_2",
+  "text": "这笔账，我记下了。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_guicai_1",
+  "text": "天意？由我来改！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_guicai_2",
+  "text": "这一局，早在我算计之中。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_ganglie_1",
+  "text": "夏侯惇在此，谁敢伤我！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_ganglie_2",
+  "text": "伤我一分，还你十倍！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_tuxi_1",
+  "text": "八百虎贲，随我突袭！",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "skill_tuxi_2",
+  "text": "趁其不备，取之！",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "skill_luoyi_1",
+  "text": "脱了甲，才打得痛快！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_luoyi_2",
+  "text": "谁来与我大战三百回合！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_tiandu_1",
+  "text": "天命如此，奈何？",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_tiandu_2",
+  "text": "罢了，罢了。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_yiji_1",
+  "text": "我的谋划，就交给你们了。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_yiji_2",
+  "text": "此计，可保主公无忧。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_qingguo_1",
+  "text": "翩若惊鸿，婉若游龙。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_qingguo_2",
+  "text": "休想伤我分毫。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_luoshen_1",
+  "text": "凌波微步，罗袜生尘。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_luoshen_2",
+  "text": "仿佛兮若轻云之蔽月。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_shensu_1",
+  "text": "兵贵神速！",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "skill_shensu_2",
+  "text": "疾如风，快如电！",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "skill_jushou_1",
+  "text": "坚守城池，以待援军！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_jushou_2",
+  "text": "城在人在！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_qiangxi_1",
+  "text": "吃我一戟！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_qiangxi_2",
+  "text": "古之恶来，在此！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_quhu_1",
+  "text": "让他们自相残杀吧。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_quhu_2",
+  "text": "二虎相争，必有一伤。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_jieming_1",
+  "text": "秉忠贞之志，守谦退之节。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_jieming_2",
+  "text": "为国尽忠，死而后已。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_duanliang_1",
+  "text": "断其粮道，不攻自破！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_duanliang_2",
+  "text": "截其粮草，乱其军心！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_xingshang_1",
+  "text": "汝之遗物，吾当收之。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_xingshang_2",
+  "text": "逝者已矣，其物归我。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_fangzhu_1",
+  "text": "给我退下吧！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_fangzhu_2",
+  "text": "放逐他乡，永不得归！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_songwei_1",
+  "text": "千秋万载，一统江山！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_songwei_2",
+  "text": "颂我威名！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_rende_1",
+  "text": "以德服人。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_rende_2",
+  "text": "惟贤惟德，能服于人。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_jijiang_1",
+  "text": "蜀将何在？",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_jijiang_2",
+  "text": "尔等可愿为我出战？",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_wusheng_1",
+  "text": "关羽在此，尔等受死！",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "skill_wusheng_2",
+  "text": "看我青龙偃月！",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "skill_paoxiao_1",
+  "text": "燕人张飞在此！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_paoxiao_2",
+  "text": "谁敢与我决一死战！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_guanxing_1",
+  "text": "天象已明，一切尽在掌握。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_guanxing_2",
+  "text": "观今夜天象，知天下大事。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_kongcheng_1",
+  "text": "城中空虚，你敢进来吗？",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_kongcheng_2",
+  "text": "空城一座，请君入内。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_longdan_1",
+  "text": "常山赵子龙在此！",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_longdan_2",
+  "text": "一身是胆！",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_tieqi_1",
+  "text": "全军突击！",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_tieqi_2",
+  "text": "西凉铁骑，所向披靡！",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_jizhi_1",
+  "text": "妙计在心。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_jizhi_2",
+  "text": "我有一个好主意。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_liegong_1",
+  "text": "看箭！百步穿杨！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_liegong_2",
+  "text": "老夫的箭，从不虚发！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_kuanggu_1",
+  "text": "哈哈！痛快！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_kuanggu_2",
+  "text": "以血养血，越战越勇！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_bazhen_1",
+  "text": "八阵图，困你于此。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_bazhen_2",
+  "text": "此阵，变化无穷。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_huoji_1",
+  "text": "火攻之计，烧他个片甲不留！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_huoji_2",
+  "text": "东风已至，放火！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_kanpo_1",
+  "text": "此计，已被我看破。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_kanpo_2",
+  "text": "雕虫小技。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_lianhuan_1",
+  "text": "连环之计，环环相扣。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_lianhuan_2",
+  "text": "将他们锁在一起！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_niepan_1",
+  "text": "凤凰涅槃，浴火重生！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_niepan_2",
+  "text": "置之死地而后生！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_juxiang_1",
+  "text": "我的大象，可不怕你！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_juxiang_2",
+  "text": "小象，过来！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_lieren_1",
+  "text": "尝尝我的飞刀！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_lieren_2",
+  "text": "火神之女，岂容放肆！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_huoshou_1",
+  "text": "南蛮的勇士们，冲啊！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_huoshou_2",
+  "text": "我的地盘，我说了算！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_zaiqi_1",
+  "text": "我还会再回来的！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_zaiqi_2",
+  "text": "我不服，咱们再来！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_xiangle_1",
+  "text": "此间乐，不思蜀。",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_xiangle_2",
+  "text": "先请吃饭，再说打仗。",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_fangquan_1",
+  "text": "相父，你来吧。",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_fangquan_2",
+  "text": "这些事，交给你们办。",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_tiaoxin_1",
+  "text": "有本事就来打我！",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_tiaoxin_2",
+  "text": "敢与我一战否？",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_zhiji_1",
+  "text": "丞相之志，我来继承！",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_zhiji_2",
+  "text": "继丞相遗志，讨伐魏贼！",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_zhiheng_1",
+  "text": "容我三思。",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_zhiheng_2",
+  "text": "制衡之道，在于取舍。",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_jiuyuan_1",
+  "text": "吴国将士，救我！",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_jiuyuan_2",
+  "text": "有你们在，真好。",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_qixi_1",
+  "text": "锦帆贼来也！",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_qixi_2",
+  "text": "百骑劫营，谁敢挡我！",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_keji_1",
+  "text": "忍一时，风平浪静。",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_keji_2",
+  "text": "士别三日，当刮目相待。",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_kurou_1",
+  "text": "请将军责罚末将！",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "skill_kurou_2",
+  "text": "为了大吴，这点伤算什么！",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "skill_yingzi_1",
+  "text": "雄姿英发，羽扇纶巾。",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_yingzi_2",
+  "text": "哈哈，天下英雄，谁能及我？",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_fanjian_1",
+  "text": "中我反间之计了吧？",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_fanjian_2",
+  "text": "你上当了。",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_guose_1",
+  "text": "国色天香，请多关照。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_guose_2",
+  "text": "看着我，别分心哦。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_liuli_1",
+  "text": "这一刀，请你替我挡下。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_liuli_2",
+  "text": "躲开就好了。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_lianying_1",
+  "text": "火烧连营，一举破敌！",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_lianying_2",
+  "text": "生生不息，绵绵不绝。",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_jieyin_1",
+  "text": "夫君，身体要紧。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_jieyin_2",
+  "text": "我们一起，渡过难关。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_xiaoji_1",
+  "text": "哼，这些都是身外之物。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_xiaoji_2",
+  "text": "弓腰姬，岂会怕你！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_tianxiang_1",
+  "text": "替我挡着吧。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_tianxiang_2",
+  "text": "这一下，就交给你啦。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_tianyi_1",
+  "text": "大丈夫当带三尺剑，立不世之功！",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "skill_tianyi_2",
+  "text": "我来与你一决高下！",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "skill_yinghun_1",
+  "text": "以吾魂魄，保佑吾儿！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_yinghun_2",
+  "text": "江东基业，必将传承！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_haoshi_1",
+  "text": "拿去吧，不必客气。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_haoshi_2",
+  "text": "钱财乃身外之物。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_dimeng_1",
+  "text": "以和为贵。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_dimeng_2",
+  "text": "我来做个和事佬。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_jiang_1",
+  "text": "江东小霸王在此！",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_jiang_2",
+  "text": "吾乃江东孙伯符！",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_hunzi_1",
+  "text": "父亲在天之灵，佑我！",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_hunzi_2",
+  "text": "此身虽死，英魂不灭！",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "skill_jijiu_1",
+  "text": "别紧张，有老夫在。",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "skill_jijiu_2",
+  "text": "救死扶伤，医者本分。",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "skill_qingnang_1",
+  "text": "早睡早起，方能养生。",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "skill_qingnang_2",
+  "text": "妙手回春。",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "skill_wushuang_1",
+  "text": "天下谁人能挡我！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_wushuang_2",
+  "text": "人中吕布，马中赤兔！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_lijian_1",
+  "text": "你们打起来吧。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_lijian_2",
+  "text": "两位将军，莫要为我争执。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_biyue_1",
+  "text": "月儿，也为我害羞了吗？",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_biyue_2",
+  "text": "闭月之貌，羞花之容。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_luanji_1",
+  "text": "弓箭手，准备放箭！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_luanji_2",
+  "text": "全都给我射！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_shuangxiong_1",
+  "text": "吾乃河北上将颜良文丑！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_shuangxiong_2",
+  "text": "兄弟同心，其利断金！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_mengjin_1",
+  "text": "我要杀个痛快！",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "skill_mengjin_2",
+  "text": "抬棺而战，誓死不退！",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "skill_jiuchi_1",
+  "text": "好酒！好酒！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_jiuchi_2",
+  "text": "再来一壶！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_benghuai_1",
+  "text": "我是不是该减肥了？",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_benghuai_2",
+  "text": "嗯，身体有些不适。",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_baonue_1",
+  "text": "顺我者昌，逆我者亡！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_baonue_2",
+  "text": "哈哈哈，都是我的！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "skill_wansha_1",
+  "text": "神仙难救，神仙难救啊。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_wansha_2",
+  "text": "我要你三更死，谁敢留你到五更？",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_luanwu_1",
+  "text": "哼，都去死吧。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_luanwu_2",
+  "text": "乱吧，越乱越好！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_leiji_1",
+  "text": "以我之真气，合天地之造化！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_leiji_2",
+  "text": "雷公助我！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_guidao_1",
+  "text": "天下大势，为我所控。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_guidao_2",
+  "text": "你的命运，我说了算。",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "skill_beige_1",
+  "text": "胡笳一曲，悲歌一声。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_beige_2",
+  "text": "制兹八拍兮拟俳优。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_duanchang_1",
+  "text": "杀了我，你也别想好过。",
+  "voice": "中文女声"
+ },
+ {
+  "id": "skill_duanchang_2",
+  "text": "断肠之痛，你也尝尝！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "death_caocao",
+  "text": "霸业未成，可惜……可惜……",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "death_simayi",
+  "text": "老夫……竟算漏了一步……",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "death_xiahoudun",
+  "text": "我还没打够呢……",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "death_zhangliao",
+  "text": "威震逍遥津……此生无憾……",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "death_xuchu",
+  "text": "这次……没打赢……",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "death_guojia",
+  "text": "天下之事……未尽啊……",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "death_zhenji",
+  "text": "此生……再难相见……",
+  "voice": "中文女声"
+ },
+ {
+  "id": "death_xiahouyuan",
+  "text": "竟然……比我还快……",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "death_caoren",
+  "text": "城……还是破了……",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "death_dianwei",
+  "text": "主公快走，典韦断后！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "death_xunyu",
+  "text": "身为汉臣，至死不渝……",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "death_xuhuang",
+  "text": "将军……亦有败时……",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "death_caopi",
+  "text": "子建……子建……",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "death_liubei",
+  "text": "汉室……未能兴复……",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "death_guanyu",
+  "text": "什么？此地名叫麦城？",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "death_zhangfei",
+  "text": "俺老张今天打不动了。",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "death_zhugeliang",
+  "text": "鞠躬尽瘁，死而后已……",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "death_zhaoyun",
+  "text": "这就是……失败的滋味吗……",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "death_machao",
+  "text": "请将我……葬在西凉……",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "death_huangyueying",
+  "text": "亮，我先走一步了……",
+  "voice": "中文女声"
+ },
+ {
+  "id": "death_huangzhong",
+  "text": "老夫终究是老了啊。",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "death_weiyan",
+  "text": "谁敢杀我……竟然……",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "death_wolong",
+  "text": "悠悠苍天，曷此其极……",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "death_pangtong",
+  "text": "落凤坡……果然……",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "death_zhurong",
+  "text": "大王……我先走了……",
+  "voice": "中文女声"
+ },
+ {
+  "id": "death_menghuo",
+  "text": "这次……我服了……",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "death_liushan",
+  "text": "我……可以投降吗……",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "death_jiangwei",
+  "text": "大汉……终究……",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "death_sunquan",
+  "text": "父亲，兄长……我愧对你们……",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "death_ganning",
+  "text": "铃声……停了……",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "death_lvmeng",
+  "text": "白衣渡江……一场梦……",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "death_huanggai",
+  "text": "火……烧起来了吗……",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "death_zhouyu",
+  "text": "既生瑜，何生亮……",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "death_daqiao",
+  "text": "伯符……我来陪你了……",
+  "voice": "中文女声"
+ },
+ {
+  "id": "death_luxun",
+  "text": "还是……太年轻了……",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "death_sunshangxiang",
+  "text": "不！我还要和夫君……",
+  "voice": "中文女声"
+ },
+ {
+  "id": "death_xiaoqiao",
+  "text": "公瑾……公瑾……",
+  "voice": "中文女声"
+ },
+ {
+  "id": "death_taishici",
+  "text": "大丈夫之志……未酬……",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "death_sunjian",
+  "text": "可恨啊，竟中了埋伏。",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "death_lusu",
+  "text": "孙刘之盟……不可破……",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "death_sunce",
+  "text": "内事不决问张昭，外事不决问周瑜……",
+  "voice": "大一嘉豪哥"
+ },
+ {
+  "id": "death_huatuo",
+  "text": "医者不能自医啊……",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "death_lvbu",
+  "text": "不可能！",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "death_diaochan",
+  "text": "义父，我无能为力了……",
+  "voice": "中文女声"
+ },
+ {
+  "id": "death_yuanshao",
+  "text": "我袁家……怎会如此……",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "death_yanliangwenchou",
+  "text": "这红脸长须的……是谁……",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "death_pangde",
+  "text": "宁为国家鬼，不为贼将也……",
+  "voice": "沉稳男声"
+ },
+ {
+  "id": "death_dongzhuo",
+  "text": "汉室衰落，非我一人之罪……",
+  "voice": "浑厚男声"
+ },
+ {
+  "id": "death_jiaxu",
+  "text": "我的时辰……也到了……",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "death_zhangjiao",
+  "text": "黄天……也死了……",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "death_caiwenji",
+  "text": "人生几何时，怀忧终年岁……",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_sha",
+  "text": "杀！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_sha",
+  "text": "杀！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_huosha",
+  "text": "火杀！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_huosha",
+  "text": "火杀！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_leisha",
+  "text": "雷杀！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_leisha",
+  "text": "雷杀！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_shan",
+  "text": "闪！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_shan",
+  "text": "闪！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_tao",
+  "text": "桃！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_tao",
+  "text": "桃！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_jiu",
+  "text": "酒！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_jiu",
+  "text": "酒！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_juedou",
+  "text": "决斗！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_juedou",
+  "text": "决斗！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_guohe",
+  "text": "过河拆桥！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_guohe",
+  "text": "过河拆桥！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_shunshou",
+  "text": "顺手牵羊！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_shunshou",
+  "text": "顺手牵羊！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_wuzhong",
+  "text": "无中生有！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_wuzhong",
+  "text": "无中生有！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_jiedao",
+  "text": "借刀杀人！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_jiedao",
+  "text": "借刀杀人！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_nanman",
+  "text": "南蛮入侵！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_nanman",
+  "text": "南蛮入侵！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_wanjian",
+  "text": "万箭齐发！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_wanjian",
+  "text": "万箭齐发！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_taoyuan",
+  "text": "桃园结义！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_taoyuan",
+  "text": "桃园结义！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_wugu",
+  "text": "五谷丰登！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_wugu",
+  "text": "五谷丰登！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_wuxie",
+  "text": "无懈可击！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_wuxie",
+  "text": "无懈可击！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_huogong",
+  "text": "火攻！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_huogong",
+  "text": "火攻！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_tiesuo",
+  "text": "铁索连环！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_tiesuo",
+  "text": "铁索连环！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_lebu",
+  "text": "乐不思蜀！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_lebu",
+  "text": "乐不思蜀！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_bingliang",
+  "text": "兵粮寸断！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_bingliang",
+  "text": "兵粮寸断！",
+  "voice": "中文女声"
+ },
+ {
+  "id": "card_m_shandian",
+  "text": "闪电！",
+  "voice": "人工老龙凤"
+ },
+ {
+  "id": "card_f_shandian",
+  "text": "闪电！",
+  "voice": "中文女声"
+ }
+]

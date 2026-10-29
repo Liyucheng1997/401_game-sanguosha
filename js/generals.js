@@ -1,0 +1,62 @@
+// 武将列表
+(function () {
+  const SGS = globalThis.SGS;
+  const G = (SGS.Generals = {});
+  // id, 名, 势力, 体力, 性别, 技能, 称号, 强度评分
+  const LIST = [
+    ['caocao', '曹操', 'wei', 4, 'male', ['jianxiong', 'hujia'], '魏武帝', 7, true],
+    ['simayi', '司马懿', 'wei', 3, 'male', ['fankui', 'guicai'], '狼顾之鬼', 7],
+    ['xiahoudun', '夏侯惇', 'wei', 4, 'male', ['ganglie'], '独眼的罗刹', 6],
+    ['zhangliao', '张辽', 'wei', 4, 'male', ['tuxi'], '前将军', 7.5],
+    ['xuchu', '许褚', 'wei', 4, 'male', ['luoyi'], '虎痴', 6],
+    ['guojia', '郭嘉', 'wei', 3, 'male', ['tiandu', 'yiji'], '早终的先知', 8],
+    ['zhenji', '甄姬', 'wei', 3, 'female', ['qingguo', 'luoshen'], '薄幸的美人', 7.5],
+    ['xiahouyuan', '夏侯渊', 'wei', 4, 'male', ['shensu'], '疾行的猎豹', 6.5],
+    ['caoren', '曹仁', 'wei', 4, 'male', ['jushou'], '大将军', 5.5],
+    ['dianwei', '典韦', 'wei', 4, 'male', ['qiangxi'], '古之恶来', 7],
+    ['xunyu', '荀彧', 'wei', 3, 'male', ['quhu', 'jieming'], '王佐之才', 7],
+    ['xuhuang', '徐晃', 'wei', 4, 'male', ['duanliang'], '周亚夫之风', 7],
+    ['caopi', '曹丕', 'wei', 3, 'male', ['xingshang', 'fangzhu', 'songwei'], '霸业的继承者', 7.5, true],
+    ['liubei', '刘备', 'shu', 4, 'male', ['rende', 'jijiang'], '乱世的枭雄', 7, true],
+    ['guanyu', '关羽', 'shu', 4, 'male', ['wusheng'], '美髯公', 6.5],
+    ['zhangfei', '张飞', 'shu', 4, 'male', ['paoxiao'], '万夫不当', 7],
+    ['zhugeliang', '诸葛亮', 'shu', 3, 'male', ['guanxing', 'kongcheng'], '迟暮的丞相', 7],
+    ['zhaoyun', '赵云', 'shu', 4, 'male', ['longdan'], '少年将军', 6.5],
+    ['machao', '马超', 'shu', 4, 'male', ['mashu', 'tieqi'], '一骑当千', 6.5],
+    ['huangyueying', '黄月英', 'shu', 3, 'female', ['jizhi', 'qicai'], '归隐的杰女', 7],
+    ['huangzhong', '黄忠', 'shu', 4, 'male', ['liegong'], '老当益壮', 6.5],
+    ['weiyan', '魏延', 'shu', 4, 'male', ['kuanggu'], '嗜血的独狼', 6.5],
+    ['wolong', '卧龙诸葛亮', 'shu', 3, 'male', ['bazhen', 'huoji', 'kanpo'], '卧龙', 7.5],
+    ['pangtong', '庞统', 'shu', 3, 'male', ['lianhuan', 'niepan'], '凤雏', 7],
+    ['zhurong', '祝融', 'shu', 4, 'female', ['juxiang', 'lieren'], '野性的女王', 6.5],
+    ['menghuo', '孟获', 'shu', 4, 'male', ['huoshou', 'zaiqi'], '南蛮王', 6],
+    ['liushan', '刘禅', 'shu', 3, 'male', ['xiangle', 'fangquan'], '无为的真命主', 5.5],
+    ['jiangwei', '姜维', 'shu', 4, 'male', ['tiaoxin', 'zhiji'], '龙的衣钵', 6.5],
+    ['sunquan', '孙权', 'wu', 4, 'male', ['zhiheng', 'jiuyuan'], '年轻的贤君', 7.5, true],
+    ['ganning', '甘宁', 'wu', 4, 'male', ['qixi'], '锦帆游侠', 7],
+    ['lvmeng', '吕蒙', 'wu', 4, 'male', ['keji'], '白衣渡江', 6],
+    ['huanggai', '黄盖', 'wu', 4, 'male', ['kurou'], '轻身为国', 7],
+    ['zhouyu', '周瑜', 'wu', 3, 'male', ['yingzi', 'fanjian'], '大都督', 7],
+    ['daqiao', '大乔', 'wu', 3, 'female', ['guose', 'liuli'], '矜持之花', 7.5],
+    ['luxun', '陆逊', 'wu', 3, 'male', ['qianxun', 'lianying'], '儒生雄才', 7],
+    ['sunshangxiang', '孙尚香', 'wu', 3, 'female', ['jieyin', 'xiaoji'], '弓腰姬', 7],
+    ['xiaoqiao', '小乔', 'wu', 3, 'female', ['tianxiang', 'hongyan'], '矫情之花', 7],
+    ['taishici', '太史慈', 'wu', 4, 'male', ['tianyi'], '笃烈之士', 6.5],
+    ['sunjian', '孙坚', 'wu', 4, 'male', ['yinghun'], '武烈帝', 7],
+    ['lusu', '鲁肃', 'wu', 3, 'male', ['haoshi', 'dimeng'], '独断的外交家', 7],
+    ['sunce', '孙策', 'wu', 4, 'male', ['jiang', 'hunzi'], '江东的小霸王', 7],
+    ['huatuo', '华佗', 'qun', 3, 'male', ['jijiu', 'qingnang'], '神医', 7.5],
+    ['lvbu', '吕布', 'qun', 4, 'male', ['wushuang'], '武的化身', 6.5],
+    ['diaochan', '貂蝉', 'qun', 3, 'female', ['lijian', 'biyue'], '绝世的舞姬', 7.5],
+    ['yuanshao', '袁绍', 'qun', 4, 'male', ['luanji', 'xueyi'], '高贵的名门', 7.5, true],
+    ['yanliangwenchou', '颜良文丑', 'qun', 4, 'male', ['shuangxiong'], '虎狼兄弟', 6.5],
+    ['pangde', '庞德', 'qun', 4, 'male', ['mashu', 'mengjin'], '人马一体', 6],
+    ['dongzhuo', '董卓', 'qun', 8, 'male', ['jiuchi', 'roulin', 'benghuai', 'baonue'], '魔王', 6.5, true],
+    ['jiaxu', '贾诩', 'qun', 3, 'male', ['wansha', 'luanwu', 'weimu'], '冷酷的毒士', 7.5],
+    ['zhangjiao', '张角', 'qun', 3, 'male', ['leiji', 'guidao'], '天公将军', 7.5],
+    ['caiwenji', '蔡文姬', 'qun', 3, 'female', ['beige', 'duanchang'], '异乡的孤女', 6.5],
+  ];
+  for (const [id, name, kingdom, hp, gender, skills, title, rating, lordSkill] of LIST) {
+    G[id] = { id, name, kingdom, hp, gender, skills, title, rating, lordSkill: !!lordSkill };
+  }
+})();
